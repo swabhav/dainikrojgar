@@ -1,5 +1,5 @@
 var ref = document.referrer;
-var siteurl = "http://voteindians.com/";//if you have www, then use www. http://www.yoursite.com
+var siteurl = "https://vote-indian.blogspot.com/";//if you have www, then use www. http://www.yoursite.com
 if (ref.indexOf(siteurl)!= -1){
 }
 else{
@@ -11,7 +11,7 @@ else{
       if(location.hash === "#!/auth") {
         history.replaceState(null, document.title, location.pathname);
         setTimeout(function(){
-          location.replace("http://voteindians.com/r-poll/");
+          location.replace("https://vote-indian.blogspot.com/");
         },0);
       }
     }, false);
