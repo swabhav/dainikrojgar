@@ -9,7 +9,7 @@ Read latest news in Hindi at Prabhasakshi (प्रभासाक्षी). G
 <pubDate>Sat, 14 Jul 2018 05:18:06 +0000</pubDate>
 <generator>FetchRSS</generator>
 <link>https://www.prabhasakshi.com/news/sports/</link>
-<atom:link href="http://mykhabar.net/rss/pra.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://raw.githubusercontent.com/swabhav/dainikrojgar/master/prabha.xml" rel="self" type="application/rss+xml"/>
 <image>
 <link>https://www.prabhasakshi.com/news/sports/</link>
 <url>
